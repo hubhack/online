@@ -3,7 +3,7 @@ from django import forms
 import re
 from operation.models import UserAsk
 
-__author__ = 'mtianyan'
+
 __date__ = '2018/1/12 0012 03:20'
 
 # 普通版本的form

@@ -2,7 +2,7 @@
 from captcha.fields import CaptchaField
 from users.models import UserProfile
 
-__author__ = 'mtianyan'
+
 __date__ = '2018/1/10 0010 05:56'
 
 # 引入Django表单

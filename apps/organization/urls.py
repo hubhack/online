@@ -2,7 +2,7 @@
 from organization.views import OrgView, AddUserAskView, OrgHomeView, OrgCourseView, OrgDescView, OrgTeacherView, \
     AddFavView, TeacherListView, TeacherDetailView
 
-__author__ = 'mtianyan'
+
 __date__ = '2018/1/12 0012 03:28'
 
 from django.urls import path, re_path

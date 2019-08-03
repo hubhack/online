@@ -1,7 +1,7 @@
 # encoding: utf-8
 from courses.models import Course, Video, Lesson, CourseResource
 
-__author__ = 'mtianyan'
+
 __date__ = '2018/1/9 0009 08:02'
 
 import xadmin
