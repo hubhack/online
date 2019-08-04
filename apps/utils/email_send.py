@@ -64,7 +64,7 @@ def send_register_eamil(email, send_type="register"):
 
         # 如果发送成功
         if send_status:
-            print('2222222222222222222222222222')
+
             pass
     elif send_type == "forget":
         email_title = "mtianyan慕课小站 找回密码链接"
