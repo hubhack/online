@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81620384-a96b-4217-a47c-ab354458db82" name="Default" comment="强制更新了所有依赖，大致可用，有待测试完善">
-      <change beforePath="$PROJECT_DIR$/apps/utils/email_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/utils/email_send.py" afterDir="false" />
-    </list>
+    <list default="true" id="81620384-a96b-4217-a47c-ab354458db82" name="Default" comment="强制更新了所有依赖，大致可用，有待测试完善" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/apps/users/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-189">
+            <state relative-caret-position="2394">
               <caret line="114" column="12" lean-forward="true" selection-start-line="114" selection-start-column="12" selection-end-line="114" selection-end-column="12" />
               <folding>
                 <element signature="e#18#29#0" expanded="true" />
@@ -159,8 +157,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="582" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="438" />
     <option name="width" value="1345" />
     <option name="height" value="1049" />
   </component>
@@ -332,7 +330,7 @@
       <workItem from="1560927722504" duration="1080000" />
       <workItem from="1560930288717" duration="84000" />
       <workItem from="1564800933277" duration="13902000" />
-      <workItem from="1564880415276" duration="709000" />
+      <workItem from="1564880415276" duration="891000" />
     </task>
     <task id="LOCAL-00001" summary="7-6完成列表筛选以及排序功能">
       <created>1515698110311</created>
@@ -499,13 +497,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43505000" />
+    <option name="totallyTimeSpent" value="43687000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="351" y="0" width="1076" height="839" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21514745" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31532416" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -951,7 +949,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/users/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-189">
+        <state relative-caret-position="2394">
           <caret line="114" column="12" lean-forward="true" selection-start-line="114" selection-start-column="12" selection-end-line="114" selection-end-column="12" />
           <folding>
             <element signature="e#18#29#0" expanded="true" />
