@@ -5,3 +5,6 @@ __pycache__/
 media/
 Pipfile/
 Pipfile.lock/
+Mxonline3/__pycache__/
+apps/operation/__pycache__/
+.idea/workspace.xml
