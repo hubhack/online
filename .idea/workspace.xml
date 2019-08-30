@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81620384-a96b-4217-a47c-ab354458db82" name="Default" comment="强制更新了所有依赖，大致可用，有待测试完善">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Mxonline3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Mxonline3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +21,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Mxonline3/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
+            <state relative-caret-position="1488">
               <caret line="156" column="40" selection-start-line="156" selection-start-column="40" selection-end-line="156" selection-end-column="40" />
               <folding>
                 <element signature="e#309#319#0" expanded="true" />
@@ -139,11 +136,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1905" />
-    <option name="y" value="-15" />
-    <option name="width" value="1953" />
-    <option name="height" value="2093" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1185" />
+    <option name="width" value="1955" />
+    <option name="height" value="2095" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -159,11 +155,6 @@
             <path>
               <item name="online" type="b2602c69:ProjectViewProjectNode" />
               <item name="online" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -320,6 +311,8 @@
       <workItem from="1564800933277" duration="13902000" />
       <workItem from="1564880415276" duration="891000" />
       <workItem from="1566186551470" duration="1990000" />
+      <workItem from="1566202990027" duration="559000" />
+      <workItem from="1566394899293" duration="1023000" />
     </task>
     <task id="LOCAL-00001" summary="7-6完成列表筛选以及排序功能">
       <created>1515698110311</created>
@@ -486,12 +479,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45677000" />
+    <option name="totallyTimeSpent" value="47259000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <frame x="474" y="0" width="782" height="838" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15405224" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3168044" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -504,18 +497,18 @@
       <window_info anchor="bottom" id="manage.py@Mxonline3" order="7" weight="0.32328105" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49930266" visible="true" weight="0.41288432" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49930266" visible="true" weight="0.5701754" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5006974" side_tool="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32984293" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Pylint" order="14" />
       <window_info anchor="bottom" id="Database Console" order="15" weight="0.32979977" />
-      <window_info anchor="right" id="Mongo Explorer" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32923833" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Mongo Explorer" order="5" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" weight="0.27944863" />
@@ -929,12 +922,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/setup.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/setup.py" />
     <entry file="file://$PROJECT_DIR$/Mxonline3/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
+        <state relative-caret-position="1488">
           <caret line="156" column="40" selection-start-line="156" selection-start-column="40" selection-end-line="156" selection-end-column="40" />
           <folding>
             <element signature="e#309#319#0" expanded="true" />
